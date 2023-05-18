@@ -1,0 +1,63 @@
+.bg-ali{
+    background-color: #3A0D60;
+    
+    padding-top: 80px;
+}
+.about{
+    color: #fff;
+    background-image: url(../assets/bg-ali.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 620px;
+    
+}
+.para-text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+}
+.para-para{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+}
+.para-soc img{
+    width: 60px;
+height: 60px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.para-soc .col-2{
+    padding: 0 !important;
+}
+.bg-pinkk{
+    background-color: #8A3BCD;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.w-94{
+    width: 94%;
+}
+.w-90{
+    width: 90%;
+}
+.w-80{
+    width: 80%;
+}
+.progress{
+    height: 2rem;
+    border-bottom: 3px solid #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}

@@ -1,0 +1,91 @@
+.projects {
+    background-image: url(../assets/bgulta.png);
+    background-size: cover;
+}
+
+.toper-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+    /* identical to box height */
+
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+
+}
+
+.toper-para {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+}
+
+.image img {
+    box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.25);
+    width: 350px;
+    height: 198.17px;
+}
+
+.card {
+    background: linear-gradient(180deg, #D9D9D9 0%, rgba(217, 217, 217, 0.25) 100%);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.25);
+
+    border-radius: 15px;
+    height: 486px;
+
+}
+
+.card h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
+}
+
+.card a {
+    background: rgba(217, 217, 217, 0.48);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 33px;
+    width: 200px;
+    height: 61px;
+    margin: auto;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #fff;
+    text-align: center;
+    letter-spacing: 0.04em;
+    padding-top: 14px;
+    transition: all 0.3s ease-in-out;
+}
+
+.card a:hover {
+    box-shadow: none;
+}
+
+.card p {
+    color: #fff;
+    padding-top: 15px;
+}
