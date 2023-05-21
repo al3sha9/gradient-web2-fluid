@@ -12,6 +12,7 @@
     
 }
 .para-text{
+    text-align: right;
     font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
@@ -60,4 +61,34 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 
     height: 2rem;
     border-bottom: 3px solid #fff;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+@media (max-width: 786px) {
+    
+  .about{
+    color: #000;
+    height: 1220px;
+    padding: 0px !important;
+    
+}
+.para-text{
+    font-size: 20px;
+    text-align: center;
+}
+.para-soc{
+    text-align: center;
+}
+.bg-ali{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 790px;
+}
+.progresses{
+    margin-top: 15px;
+}
+.progress{
+    height: 3rem;
+    font-size: 15px;
+    font-weight: bold;
+}
 }

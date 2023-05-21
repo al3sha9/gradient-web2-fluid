@@ -20,7 +20,7 @@ export default function About() {
                             </div>
                             <div className="col-md-1"></div>
                             <div className="col-md-4">
-                                <div className="para text-end mt-5">
+                                <div className="para mt-5">
                                     <h2 className='pt-5 para-text pb-4'>TECH STACK</h2>
                                     <div className="row para-soc">
                                         <div className="col-2">
@@ -44,13 +44,13 @@ export default function About() {
                                     </div>
                                     <div className="progresses pt-5">
                                         <div className="progress mb-2" role="progressbar" aria-label="Basic example" aria-valuenow="34" aria-valuemin="40" aria-valuemax="100">
-                                            <div className="progress-bar w-90 bg-pinkk">React JS</div>
+                                            <div className="progress-bar w-90 bg-pinkk">React JS 90%</div>
                                         </div>
                                         <div className="progress mb-2" role="progressbar" aria-label="Basic example" aria-valuenow="34" aria-valuemin="40" aria-valuemax="100">
-                                            <div className="progress-bar w-94 bg-pinkk">Javascript</div>
+                                            <div className="progress-bar w-94 bg-pinkk">Javascript 94%</div>
                                         </div>
                                         <div className="progress" role="progressbar" aria-label="Basic example" aria-valuenow="34" aria-valuemin="40" aria-valuemax="100">
-                                            <div className="progress-bar w-80 bg-pinkk">Solidity</div>
+                                            <div className="progress-bar w-80 bg-pinkk">Solidity 80%</div>
                                         </div>
                                     </div>
                                 </div>
