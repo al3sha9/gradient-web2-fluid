@@ -35,13 +35,13 @@ export default function NavbarTop() {
                 </div>
                 <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li className="nav-item mx-2">
-                        <a className="nav-link nav-cus" aria-current="page" href="#">Home</a>
+                        <a className="nav-link nav-cus" aria-current="page" href="#header">Home</a>
                     </li>
                     <li className="nav-item mx-2">
-                        <a className="nav-link nav-cus" href="#">Projects</a>
+                        <a className="nav-link nav-cus" href="#projects">Projects</a>
                     </li>
                     <li className="nav-item mx-2">
-                        <a className="nav-link nav-cus" href="#">Contact</a>
+                        <a className="nav-link nav-cus" href="#contact">Contact</a>
                     </li>
                     <li className="nav-item mx-2">
                         <a className="nav-link nav-cus" href="#"><i className='fa-brands fa-linkedin'></i></a>

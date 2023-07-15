@@ -4,7 +4,7 @@ function HeaderBg() {
 
     return (
       <>
-        <header className="bg-alpha">
+        <header className="bg-alpha" id="header">
                     <NavbarTop />
             <div className="container">
                 
