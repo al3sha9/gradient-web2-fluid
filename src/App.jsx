@@ -4,6 +4,8 @@ import HeaderBg from './components/header';
 import { useEffect } from 'react';
 import About from './components/about';
 import Projects from './components/projects';
+import Contact from './components/contact';
+import Footer from './components/footer';
 
 function App() {
   useEffect(()=>{
@@ -14,6 +16,8 @@ function App() {
       <HeaderBg />
       <About />
       <Projects />
+      <Contact />
+      <Footer />
     </>
   )
 }

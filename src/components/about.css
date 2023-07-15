@@ -25,6 +25,9 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 
 }
+.para-text1{
+    text-align: left;
+}
 .para-para{
     font-family: 'Poppins';
 font-style: normal;

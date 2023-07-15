@@ -1,0 +1,15 @@
+.projects {
+    background-image: url(../assets/bgulta.png);
+    background-size: cover;
+}
+.foot p{
+    color: #FFF;
+text-align: center;
+text-shadow: 3px 7px 44px 0px rgba(0, 0, 0, 0.44);
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.48px;
+}

@@ -1,0 +1,80 @@
+.bg-ali{
+    background-color: #3A0D60;
+    
+    padding-top: 80px;
+}
+
+.toper-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+    /* identical to box height */
+
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+
+}
+
+.toper-para {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
+}
+
+.con-left h3{
+  
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.88px;
+}
+.con-left a{
+    text-decoration: none;
+}
+.con-left span{
+    color: #FFF;
+text-shadow: 3px 7px 44px 0px rgba(0, 0, 0, 0.44);
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.48px;
+}
+.con-ri{
+    text-align: right;
+    border-left: 1px solid #fff;
+}
+.con-ri h3{
+    text-align: right;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.88px;
+}
+.con-ri a{
+    color: #FFF;
+text-align: right;
+text-shadow: 3px 7px 44px 0px rgba(0, 0, 0, 0.44);
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+text-decoration: none;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.48px;
+}

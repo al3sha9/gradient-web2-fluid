@@ -14,7 +14,7 @@ export default function About() {
                         <div className="row">
                             <div className="col-md-6">
                                 <div className="para mt-5">
-                                    <h2 className='pt-5 para-text'>ABOUT ME</h2>
+                                    <h2 className='pt-5 para-text para-text1'>ABOUT ME</h2>
                                     <p className='pt-3 para-para'>As a seasoned web developer with expertise in HTML, CSS, JavaScript, React, Git, and Jest testing, I have honed my skills through hands-on experience in various organizations. Having worked as a web developer in two companies, I bring a wealth of knowledge and practical insights to my current role as a blockchain developer.</p>
                                 </div>
                             </div>
